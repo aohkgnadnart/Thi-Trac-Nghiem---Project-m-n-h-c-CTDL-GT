@@ -1,6 +1,6 @@
 # projectCTDLGT
 
-## Yêu cầu Đề tài
+## Yêu cầu Đề tài Thi trắc nghiệm
 Viết chương trình có các chức năng, và cấu trúc dữ liệu theo yêu cầu:
 - Chức năng:
   - Giáo viên: 
