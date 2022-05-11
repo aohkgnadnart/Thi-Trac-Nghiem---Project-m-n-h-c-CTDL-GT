@@ -1,4 +1,0 @@
-Giáo viên: toàn quyền.
-	tài khoản giáo viên: GV
-	mật khẩu giáo viên: GV
-Sinh viên: có chức năng thi.
