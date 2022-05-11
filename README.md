@@ -21,4 +21,7 @@ Viết chương trình có các chức năng, và cấu trúc dữ liệu theo y
   - danh sách tất cả câu hỏi thi: cây nhị phân tìm kiếm cân bằng
   - danh sách câu đã làm trong 1 bài thi: danh sách liên kết đơn
   - danh sách điểm thi các môn học của 1 sinh viên: danh sách liên kết đơn
-## Demo
+## Demo chức năng
+- Giáo viên:
+
+- Sinh viên:
